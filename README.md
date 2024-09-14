@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm mihai 👋
 
 I'm an aspiring developer currently learning various programming languages and technologies to enhance my skills and build awesome projects. Here's a bit about my journey:
 
